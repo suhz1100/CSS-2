@@ -1,0 +1,20 @@
+*{
+    background-color: lightgray;
+    color: gray;
+}
+#main-title{
+    background-color: mistyrose; 
+    color: darkred;
+}
+.nav-link{
+    color: forestgreen;
+    background-color: lightyellow;
+}
+.color-box p{
+    color: saddlebrown;
+    background-color: lemonchiffon;
+}
+.intro-paragraph{
+    color: teal;
+    background-color: lightcyan;
+}
